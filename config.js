@@ -9,7 +9,7 @@ global.namaowner = 'ShinySebastian'
 
 //—————「 Setting Owner 」—————//
 global.owner = '628116646665'
-global.nomorlu = '6281932309239'
+global.nomorlu = '6281574647741'
 global.ownernomer = ["628116646665"]
 global.premium = ['628116646665']
 
